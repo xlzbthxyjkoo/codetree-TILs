@@ -154,7 +154,7 @@ public class Main {
                 if(newScore == 0) break;
                 maxScore += newScore;
             }
-            System.out.println(maxScore + " ");
+            System.out.print(maxScore + " ");
         }
     }
 }
